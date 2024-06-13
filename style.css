@@ -1,0 +1,33 @@
+#body{
+    font-family: Roboto;
+    text-align: center;
+    font-size: 25px;
+    background-color: #25252A;
+    color:white;
+    
+}
+
+#senha{
+    width: 450px;
+    height: 43px;
+    background-color: azure;
+    margin-left: 730px;
+    border: solid 3px;
+    border-color: black;
+    
+}
+
+.button{
+    width: 30px;
+    height: 30px;
+    margin-left: -410px;
+}
+
+.slider{
+    width: 450px;
+    height: 43px;
+    background-color: red;
+}
+
+
+
